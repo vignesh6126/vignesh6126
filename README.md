@@ -5,11 +5,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🔭 Currently working on **AI/ML projects & agentic AI research**  
-- 🌱 Learning **Cloud (AWS), Full-Stack Development, and MLOps**  
-- 💡 Passionate about **building scalable AI systems** and **real-world applications**  
-- 📫 Reach me at: **your-email@example.com**  
-- 🌍 Portfolio: [your-portfolio-link.com](#)  
+Hey! I'm Sushanth Allurkar, a curious and self-driven developer who loves building things and learning by doing. I'm currently pursuing my B.E in Information Technology and believe in gaining hands-on experience through practical projects.
 
 ---
 
@@ -51,3 +47,4 @@
 ---
 
 ⭐ *“Building AI solutions that bridge research and real-world impact.”*  
+
