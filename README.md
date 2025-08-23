@@ -55,6 +55,7 @@ An IT undergraduate student with strong foundations in programming, web technolo
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 
 </td>
     <td>
@@ -99,5 +100,6 @@ An IT undergraduate student with strong foundations in programming, web technolo
 ---
 
 ⭐ *“Code. Learn. Collaborate. Grow.”*
+
 
 
