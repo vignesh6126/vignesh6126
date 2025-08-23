@@ -59,17 +59,17 @@ An IT undergraduate student with strong foundations in programming, web technolo
 </td>
     <td>
   
-## 📄📜 Stats  
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats-ten-xi-39.vercel.app/api?username=vignesh6126&show_icons=true&theme=algolia&bg_color=00000000" />
+  <img width="100%" src="https://github-readme-stats-ten-xi-39.vercel.app/api?username=vignesh6126&theme=algolia&show_icons=true" />
   <br/>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=vignesh6126&theme=algolia&background=00000000" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=vignesh6126&theme=algolia&background=00000000&t=1" />
   <br/>
-  <img width="100%" src="https://github-readme-stats-ten-xi-39.vercel.app/api/top-langs/?username=vignesh6126&layout=compact&theme=algolia&bg_color=00000000" />
+  <img width="100%" src="https://github-readme-stats-ten-xi-39.vercel.app/api/top-langs/?username=vignesh6126&layout=compact&theme=algolia" />
 </p>
+
      
   </td>
  </tr>
@@ -99,3 +99,4 @@ An IT undergraduate student with strong foundations in programming, web technolo
 ---
 
 ⭐ *“Code. Learn. Collaborate. Grow.”*
+
