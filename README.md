@@ -1,50 +1,101 @@
-# Hi 👋, I'm Vignesh  
+# Hey there👋, Welcome to my GitHub Profile
 
-🎓 Final-year B.Tech Student | 🤖 Deep Learning & Generative AI Enthusiast | 🌐 Open Source Contributor  
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hi!+I'm+Vignesh;IT+Undergraduate+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor"/>
 
----
+<p>
+<i>
+An IT undergraduate student with strong foundations in programming, web technologies, and machine learning. Passionate about building scalable applications, solving real-world problems, and contributing to open-source. Skilled in problem-solving and teamwork, with hands-on experience in modern frameworks and tools.
+</i>
+</p>
 
-## 👨‍💻 About Me  
-Hey! I'm Sushanth Allurkar, a curious and self-driven developer who loves building things and learning by doing. I'm currently pursuing my B.E in Information Technology and believe in gaining hands-on experience through practical projects.
-
----
-
-## 🛠️ Tech Stack  
-
-**Languages:**  
-`C++` | `Python` | `JavaScript` | `Java`  
-
-**Frameworks & Libraries:**  
-`TensorFlow` | `PyTorch` | `Scikit-Learn` | `React.js` | `Node.js`  
-
-**Tools & Platforms:**  
-`Git` | `GitHub` | `Firebase` | `AWS` | `Docker`  
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
 ---
 
-## 📌 Featured Projects  
+## ⚡🙋‍♂️ About Me
 
-- 🚀 [DeepScan](#) – Deepfake Detection using Audio + Video Fusion  
-- 📊 [Product Recommendation Engine](#) – Real-time recommendations with Kafka & Spark  
-- 🔐 [Password Strength Analyzer](#) – React-based interactive tool  
-- 💬 [Chat Application](#) – Full-stack (React + Firebase) with real-time messaging  
-
----
-
-## 📈 GitHub Stats  
-
-![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+- 🔭 I’m currently working on **Open-Devs – Developer Collaboration Platform**
+- 🌱 I’m learning **Generative AI, Cloud & MLOps**
+- 💡 Interested in **AI/ML, Full-Stack Development, and Open Source**
+- 📖 Past Projects include **Online Voting System** and **Vegetable Price Prediction**
+- 📫 Reach me at: **vigneshgone043@gmail.com**
+- 🔗 Connect: [LinkedIn](https://linkedin.com/in/Vignesh%20G) | [Portfolio (Coming Soon)](#)
 
 ---
 
-## 🤝 Connect with Me  
+<table width="100%" >
 
-- [LinkedIn](https://linkedin.com/in/YOUR-ID)  
-- [GitHub](https://github.com/YOUR_USERNAME)  
-- [Portfolio](https://your-portfolio-link.com)  
+ <tr>
+    <td width="60%">
+     
+## 🛠️ Skills
+
+#### Languages
+![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+#### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white)&nbsp;
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=mui&logoColor=white)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+
+#### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+
+</td>
+    <td>
+  
+## 📄📜 Stats  
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats-ten-xi-39.vercel.app/api?username=vignesh6126&show_icons=true&theme=algolia&bg_color=00000000" />
+  <br/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=vignesh6126&theme=algolia&background=00000000" />
+  <br/>
+  <img width="100%" src="https://github-readme-stats-ten-xi-39.vercel.app/api/top-langs/?username=vignesh6126&layout=compact&theme=algolia&bg_color=00000000" />
+</p>
+     
+  </td>
+ </tr>
+</table>
 
 ---
 
-⭐ *“Building AI solutions that bridge research and real-world impact.”*  
+## 🏆 Competitive Coding Profiles
+- [LeetCode](https://leetcode.com/u/Vignesh043/)  
+- [Code360](https://www.naukri.com/code360/profile/GoneVignesh)
 
+---
+
+## 📌 Featured Projects
+- 🚀 [Open-Devs – Developer Collaboration Platform](https://github.com/vignesh6126/Open-Devs.git)  
+- 📊 [Vegetable Price Prediction](https://github.com/vignesh6126/crop_price_prediction.git)  
+- 🔐 Online Voting System  
+
+---
+
+## 📬 Connect with Me  
+
+<a href="https://linkedin.com/in/Vignesh%20G"><img width="110px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>  
+<a href="mailto:vigneshgone043@gmail.com"><img width="95px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>  
+<a href="https://github.com/vignesh6126"><img width="95px" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>  
+
+---
+
+⭐ *“Code. Learn. Collaborate. Grow.”*
