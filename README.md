@@ -12,14 +12,14 @@ An IT undergraduate student with strong foundations in programming, web technolo
 
 ---
 
-## ⚡🙋‍♂️ About Me
+##  About Me
 
-- 🔭 I’m currently working on **Open-Devs – Developer Collaboration Platform**
-- 🌱 I’m learning **Generative AI, Cloud & MLOps**
-- 💡 Interested in **AI/ML, Full-Stack Development, and Open Source**
-- 📖 Past Projects include **Online Voting System** and **Vegetable Price Prediction**
-- 📫 Reach me at: **vigneshgone043@gmail.com**
-- 🔗 Connect: [LinkedIn](https://linkedin.com/in/Vignesh%20G) | [Portfolio (Coming Soon)](#)
+-  I’m currently working on **Open-Devs – Developer Collaboration Platform**
+-  I’m learning **Cloud & MLOps**
+-  Interested in **AI/ML, Full-Stack Development, and Open Source**
+-  Past Projects include **Open-Devs** and **E-Commerce Price comparison tool**
+-  Reach me at: **vigneshgone043@gmail.com**
+-  Connect: [LinkedIn](https://linkedin.com/in/Vignesh%20G) (#)
 
 ---
 
@@ -84,9 +84,9 @@ An IT undergraduate student with strong foundations in programming, web technolo
 ---
 
 ## 📌 Featured Projects
-- 🚀 [Open-Devs – Developer Collaboration Platform](https://github.com/vignesh6126/Open-Devs.git)  
-- 📊 [Vegetable Price Prediction](https://github.com/vignesh6126/crop_price_prediction.git)  
-- 🔐 Online Voting System  
+-  [Open-Devs – Developer Collaboration Platform](https://github.com/vignesh6126/Open-Devs.git)  
+-  [E-commerce Price Comparison Tool](https://github.com/vignesh6126/E-Commerce-price-Comparison.git)  
+-  [Chat Application](https://github.com/vignesh6126/Chat_app.git) 
 
 ---
 
@@ -99,4 +99,5 @@ An IT undergraduate student with strong foundations in programming, web technolo
 ---
 
 ⭐ *“Code. Learn. Collaborate. Grow.”*
+
 
