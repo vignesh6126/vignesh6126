@@ -82,7 +82,7 @@ An IT undergraduate student with strong foundations in programming, web technolo
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vignesh6126&theme=algolia" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vignesh6126&theme=dracula" alt="GitHub Trophies" />
 </p>
 
 
@@ -111,6 +111,7 @@ An IT undergraduate student with strong foundations in programming, web technolo
 ---
 
 ⭐ *“Code. Learn. Collaborate. Grow.”*
+
 
 
 
